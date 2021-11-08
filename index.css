@@ -1,0 +1,27 @@
+
+body{
+    background: linear-gradient(90deg,red, yellow, orange, purple);
+}
+
+#sun{
+    color: white;
+    background: red;
+}
+#moon{
+    color: white;
+    background: black;
+}
+#star{
+    color: white ;
+    background: rgb(124, 32, 160);
+    
+}
+#mars{
+    color: white;
+    background:rgb(177, 40, 92);
+}
+#earth{
+    color: white;
+    background: green;
+}
+
